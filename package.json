@@ -1,0 +1,23 @@
+{
+  "name": "advent-of-code-2019",
+  "version": "1.0.0",
+  "description": "My solutions to the Advent of Code 2019",
+  "scripts": {
+    "start": "ts-node 01/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olpeh/advent-of-code-2019.git"
+  },
+  "author": "Olavi Haaapala",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/olpeh/advsent-of-code-2019/issues"
+  },
+  "homepage": "https://github.com/olpeh/advent-of-code-2019#readme",
+  "devDependencies": {
+    "@types/node": "12.12.14",
+    "ts-node": "8.5.4",
+    "typescript": "3.7.2"
+  }
+}
